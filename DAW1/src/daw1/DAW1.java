@@ -3,15 +3,17 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package actividad3ceciliaherrero;
+package daw1;
 
 /**
  *
  * @author Equipo
  */
-public class Actividad3CeciliaHerrero {
+public class DAW1 {
 
-    
+    /**
+     * @param args the command line arguments
+     */
     public static void main(String[] args) {
         // TODO code application logic here
     }
